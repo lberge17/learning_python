@@ -35,7 +35,6 @@ def calculator(a, b, op):
     elif op.lower() == 'remainder':
         return remainder(a, b)
 
-
 print(add(3, 2))
 print(difference(5, 4))
 print(product(7, 3))
